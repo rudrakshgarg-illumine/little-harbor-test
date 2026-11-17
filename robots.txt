@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rudrakshgarg-illumine.github.io/little-harbor-test/sitemap.xml
